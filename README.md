@@ -36,5 +36,15 @@ The model was trained for **40 epochs**. The following metrics represent the fin
 ## 🧠 Technical Deep-Dive
 Unlike traditional supervised learning, this project utilizes **Self-Supervised Foundations**. DINOv2 provides a rich understanding of object geometry and textures without needing massive labeled data for the backbone. We engineered a custom head to map these high-dimensional features into class-specific masks, resulting in a model that understands **structural context** rather than just matching pixels.
 
+---
+
+## 🌟 Test Results
+https://drive.google.com/file/d/1grZNTPm67QU2eLdHBzlUNYCJhoKv7I36/view?usp=sharing
+
+---
+
+## 🏆 Finals Visuals
+https://drive.google.com/file/d/1_dU1XZWxeCZo3ea26Yut3aey3HFh1zXB/view?usp=sharing
+   
 
    
